@@ -19,6 +19,7 @@ If you want a good and trusted developer, please contact me.
 I will give you more than you want. 
 </p>
 
+
 ####Blockchain Development
 -Ether, Polygon
 -Web3.js
@@ -59,14 +60,22 @@ I will give you more than you want.
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/solidity/solidity.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/web3/web3.png"></code>
-
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-
+<p align="center">
+    <img src=" https://github-readme-stats.vercel.app/api?username=anuraghazra" alt="More information"/>
+    <img src=" https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs" alt="More information"/>
+    <img src=" https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true" alt="More information"/>
+    <img src=" https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" alt="More information"/>
+    <img src=" https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" alt="More information"/>
+    <img src=" https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" alt="More information"/>
+    <img src=" https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra" alt="More information"/>
+    <img src=" https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io" alt="More information"/>
+    <img src=" https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8" alt="More information"/>
+    <img src=" https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](" alt="More information"/>
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Darkhorse07232020&theme=highcontrast&include_all_commits=true" alt="my github stats" height="190px" />
     &nbsp;
