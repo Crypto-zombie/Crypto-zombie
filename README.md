@@ -5,7 +5,7 @@
     <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
 </p>
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Crypto-zombie&date_format=M%20j%5B%2C%20Y%5D" alt="More information"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Crypto-zombie&date_format=M%20j%5B%2C%20Y%5D " alt="More information"/>
 </p>
 
 ## Passive Blockchain/Fullstack Developer (T shaped engineer)
