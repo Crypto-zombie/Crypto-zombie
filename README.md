@@ -10,7 +10,7 @@
 
 ## Passive Blockchain/Fullstack Developer (T shaped engineer)
 
-(What you want, I will develope right now)
+(I love to code and trust)
 <p style = "margin-left: 30px">
 Extensive knowledge of mathematics, AI, algorithms, 3D/2D graphics, politics, economics, art (except music).<br>
 Projects ranging from mini-applications to complex enterprise solutions require at least 5 years of development experience.<br>
