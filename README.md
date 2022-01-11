@@ -59,25 +59,11 @@ I will give you more than you want.
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/solidity/solidity.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+
 <p align="center">
-    <img src=" https://github-readme-stats.vercel.app/api?username=Crypto-zombie" alt="More information"/>
-    <img src=" https://github-readme-stats.vercel.app/api?username=Crypto-zombie&hide=contribs,prs" alt="More information"/>
-    <img src=" https://github-readme-stats.vercel.app/api?username=Crypto-zombie&count_private=true" alt="More information"/>
-    <img src=" https://github-readme-stats.vercel.app/api?username=Crypto-zombie&show_icons=true" alt="More information"/>
-    <img src=" https://github-readme-stats.vercel.app/api?username=Crypto-zombie&show_icons=true&theme=radical" alt="More information"/>
-    <img src=" https://github-readme-stats.vercel.app/api/pin/?username=Crypto-zombie&repo=github-readme-stats" alt="More information"/>
-    <img src=" https://github-readme-stats.vercel.app/api/top-langs/?username=Crypto-zombie" alt="More information"/>
-    <img src=" https://github-readme-stats.vercel.app/api/top-langs/?username=Crypto-zombie&exclude_repo=github-readme-stats,anuraghazra.github.io" alt="More information"/>
-    <img src=" https://github-readme-stats.vercel.app/api/top-langs/?username=Crypto-zombie&langs_count=8" alt="More information"/>
-    <img src=" https://github-readme-stats.vercel.app/api/top-langs/?username=Crypto-zombie&layout=compact)](" alt="More information"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Crypto-zombie&theme=highcontrast&include_all_commits=true" alt="my github stats" height="190px" />
-    &nbsp;
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Crypto-zombie&langs_count=12&layout=compact&theme=tokyonight&include_all_commits=true" height="190px">
 </p>
