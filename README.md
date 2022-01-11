@@ -8,7 +8,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Crypto-zombie&date_format=M%20j%5B%2C%20Y%5D" alt="More information"/>
 </p>
 
-## Passive Blockchain/Fullstack Developer--<h1>T shaped engineer</h1>
+## Passive Blockchain/Fullstack Developer (T shaped engineer)
 
 (What you want, I will develope right now)
 <p style = "margin-left: 30px">
