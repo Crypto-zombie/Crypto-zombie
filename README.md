@@ -18,13 +18,3 @@ I am proud to send 100% perfect projects to my clients! <br>
 If you want a good and trusted developer, please contact me.
 I will give you more than you want. 
 </p>
-
-
-####Blockchain Development
--Ether, Polygon
--Web3.js
--React, Bootstrap, Django
--Solidity, Solana
-
-#### Mobile Application Development
-- Android, iOS, iP
