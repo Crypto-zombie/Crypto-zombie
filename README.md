@@ -8,7 +8,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Crypto-zombie&date_format=M%20j%5B%2C%20Y%5D" alt="More information"/>
 </p>
 
-## Passive Blockchain/Fullstack Developer (T shaped engineer)
+## Fullstack Developer (T shaped engineer)
 <p style = "margin-left: 30px">
 Extensive knowledge of mathematics, AI, algorithms, 3D/2D graphics, politics, economics, art (except music).<br>
 Projects ranging from mini-applications to complex enterprise solutions require at least 5 years of development experience.<br>
